@@ -1,7 +1,7 @@
 # MacKbdSwitcher
 
 [![Downloads](https://img.shields.io/github/downloads/FrankieMa77/MacKbdSwitcher/total)](https://github.com/FrankieMa77/MacKbdSwitcher/releases)
-[![Release](https://img.shields.io/github/v/release/FrankieMa77/MacKbdSwitcher)](https://github.com/FrankieMa77/MacKbdSwitcher/releases/latest)
+[![Version](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fraw.githubusercontent.com%2Fkirill-grigorchuk%2FMacKbdSwitcher%2Fmain%2FResources%2FInfo.plist&query=%2F%2Fkey%5B.%3D'CFBundleShortVersionString'%5D%2Ffollowing-sibling%3A%3Astring%5B1%5D&label=version&prefix=v&color=orange)](Resources/Info.plist)
 ![macOS](https://img.shields.io/badge/macOS-14%2B-blue)
 ![Apple Silicon](https://img.shields.io/badge/Apple%20Silicon-arm64-lightgrey)
 ![Swift](https://img.shields.io/badge/Swift-5-orange)
